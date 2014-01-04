@@ -45,6 +45,10 @@ SPECIAL MENTIONS
 This would not have been possible (perhaps even dreamed up) without everyone
 behind xkas, SMILE JX, and metroidconstruction.com.  But also...
 
+SquishyIchigo:
+
+* I used your ASM mnemonic and instruction list docs rather a lot.
+
 Shadow34370 and BlackFalcon:
 
 * I learned a lot from your Air Tubes and MP2 Style Blocks patches.
